@@ -1,4 +1,4 @@
-const About = () => {
+const Details = () => {
   return (
     <div className="text-start">
       <h4 className="mb-2 text-utlitiyText-500 font-medium text-sm">
@@ -42,4 +42,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Details;
